@@ -1,0 +1,21 @@
+.Square {
+  width: 110px;
+  height: 110px;
+  background-color: palevioletred;
+  outline: none;
+  border: 2px solid papayawhip;
+  font-size: 110px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Indie Flower", cursive;
+}
+
+.Square:hover {
+  opacity: 0.8;
+}
+
+.Square:active {
+  transform: translate3d(2px, 2px, -2px);
+}

@@ -1,0 +1,29 @@
+.GameContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.GameBoard {
+  margin: 5px;
+  background-color: papayawhip;
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  font-family: "Indie Flower", cursive;
+}

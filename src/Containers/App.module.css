@@ -1,0 +1,38 @@
+.App {
+  background-color: black;
+  padding: 50px;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  border: 5px solid coral;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+@media (max-width: 1000px) {
+  .App {
+    width: 50vw;
+    height: 50vw;
+  }
+}
+@media (max-width: 770px) {
+  .App {
+    width: 60vw;
+    height: 60vw;
+  }
+}
+@media (max-width: 600px) {
+  .App {
+    width: 70vw;
+    height: 70vw;
+  }
+}
+
+@media (max-width: 470px) {
+  .App {
+    width: 80vw;
+    height: 80vw;
+  }
+}
