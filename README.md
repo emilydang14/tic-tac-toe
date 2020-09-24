@@ -21,6 +21,6 @@ Simple original Tic Tac Toe 3x3 game was built using React Js. The game is good 
 
 1. Write `npm start` to run
 
-2. If it show error: `react-scripts: command not found`
+2. If it shows error: `react-scripts: command not found`
   - Run `npm install` : this to make sure all the dependencies were installed
   - Run `npm start` to start the application
