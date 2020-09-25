@@ -1,7 +1,7 @@
 # TIC TAC TOE
 
 ## Introduction
-Simple original Tic Tac Toe 3x3 game was built using React Js. The game is good practice for building a game programming mindset as well as get familiar with using state and props concept in React.
+Simple original Tic Tac Toe 3x3 game was built using React Js. The game is good practice for building a mindset on how to develop a game as well as get familiar with using state and props concept in React.
 
 ## Technology used: 
   - React Js: React Hook
